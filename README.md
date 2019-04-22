@@ -9,4 +9,4 @@ docker run -it intimatemerger/mecab-ipadic-neologd mecab
 
 [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) is planed to renew at least updating twice weekly, so this image is planed to renew updating twice weekly. (Every Monday and Thursday)
 
-If you want to use old dictionaries, please check [here](https://hub.docker.com/r/intimatemerger/mecab-ipadic-neologd/tags/).
+If you want to use old dictionaries, please check [here](https://cloud.docker.com/repository/docker/mats16/mecab-python3-neologd/tags).
