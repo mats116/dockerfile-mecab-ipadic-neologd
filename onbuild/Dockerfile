@@ -1,4 +1,4 @@
-FROM intimatemerger/mecab-python:0.996-alpine
+FROM mats16/mecab-python3:0.996
 
 LABEL maintainer "mats116 <mats.kazuki@gmail.com>"
 
